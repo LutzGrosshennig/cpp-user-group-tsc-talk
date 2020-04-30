@@ -1,9 +1,8 @@
 # The joy and perils of the Intel timestamp counters
 
-A talk held at the C++ user group Bremen-Oldenburg
+A talk held at the C++ user group Bremen-Oldenburg on the 30th September 2019.
 
-This is a minimal and very easy to understand example of TSC usage shown during my presentation at the CPP user group Bremen-Oldenburg meeting.
-
+This is a minimal and very easy to understand example of timestamp counter (TSC) usage shown during my talk at the CPP user group Bremen-Oldenburg meeting.
 
 **Abstract:**
 
@@ -27,4 +26,3 @@ Maybe I add this later.
 
 Cheers 
 Lutz
-
